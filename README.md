@@ -1,5 +1,5 @@
-This repo contain video demo of the project  
-A prototype figma app of the access to finance workable solution  
-Microsoft Excel macro enable dashboard  
-Google colab notebook for predictive analysis  
-Documentation on the project analysis.  
+1. This repo contain video demo of the project  
+2. A prototype figma app of the access to finance workable solution  
+3. Microsoft Excel macro enable dashboard  
+4. Google colab notebook for predictive analysis  
+5. Documentation on the project analysis.  
